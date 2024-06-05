@@ -1,2 +1,2 @@
-# Todo-List-ReactTypeScript
-Creat todo list using react type script
+# Todo-List
+Todo-List using react ts
